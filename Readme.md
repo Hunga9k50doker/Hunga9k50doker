@@ -4,7 +4,7 @@
 
 I am a Front-end developer. Currently, I am studying at UIT (University Information Technology). I've been working on a number of small projects and some are in the process of being completed. If you find it interesting, please leave me a star. Thank you so much!
 
-Skills: REACT JS/ JS / HTML / CSS
+Skills: REACT JS/ JS / HTML / CSS(SCSS)
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React/ English 
