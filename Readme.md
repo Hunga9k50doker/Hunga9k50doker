@@ -2,7 +2,7 @@
 #### Front-End Develooper
 ![Front-End Develooper](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
 
-I am a Front-end developer. Currently, I am studying at UIT (University Information Technology). I've been working on a number of small projects and some are in the process of being completed. If you find it interesting, please leave me a star. Thank you so much!
+I am a Front-end developer. I've been working on a number of small projects and some are in the process of being completed. If you find it interesting, please leave me a star. Thank you so much!
 
 Skills: REACT JS/ JS / HTML / CSS(SCSS)
 
