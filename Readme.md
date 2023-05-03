@@ -1,13 +1,13 @@
 ### Hi there 👋, My name is Hung
 #### Front-End Develooper
-![Front-End Develooper](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
+![Web Develooper](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
 
 I am a Front-end developer. I've been working on a number of small projects and some are in the process of being completed. If you find it interesting, please leave me a star. Thank you so much!
 
-Skills: REACT JS/ NEXT JS / TS / JS / HTML / CSS(SCSS)
+Skills: REACT JS/ NEXT JS / TS / MongoDB / MySQL
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React/ English 
+- 🌱 I’m currently learning Solodity/ English 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' target='_blank' alt='github' height='40'>](https://github.com/Hunga9k50doker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' target='_blank' alt='linkedin' height='40'>](https://www.linkedin.com/in/nguyen-hung-651459218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' target='_blank' alt='twitter' height='40'>](https://twitter.com/NguyenHung231)  
